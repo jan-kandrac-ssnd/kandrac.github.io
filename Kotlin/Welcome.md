@@ -1,0 +1,83 @@
+Vitaj v kurze *Objektovo-Orientované programovanie v jazyku Kotlin*. V tomto kurze spoznáš základy jazyka Kotlin a základy Objektovo-Orientovaného Programovania (odtiaľ známa skratka OOP).
+
+Obsah:
+- 0 Setup
+	- 0.1 [Vývojové prostredie (IntelliJ Idea)](00%20Setup/0.1%20V%C3%BDvojov%C3%A9%20prostredie.md)
+- 1 Úvod do jazyka
+	- 1.1 [Funkcia main](01%20%C3%9Avod%20do%20jazyka/1.1%20Funkcia%20main.md)
+	- 1.2 [Štandardný výstup](01%20%C3%9Avod%20do%20jazyka/1.2%20%C5%A0tandardn%C3%BD%20v%C3%BDstup.md)
+	- 1.3 [Premenné](01%20%C3%9Avod%20do%20jazyka/1.3%20Premenn%C3%A9.md)
+	- 1.4 [Základné dátové typy](01%20%C3%9Avod%20do%20jazyka/1.4%20Z%C3%A1kladn%C3%A9%20d%C3%A1tov%C3%A9%20typy.md)
+	- 1.5 [Štandardný vstup](01%20%C3%9Avod%20do%20jazyka/1.5%20%C5%A0tandardn%C3%BD%20vstup.md)
+- 2 Zoznamy a for cyklus
+	- 2.1 [Zoznamy](02%20Zoznamy%20a%20for%20cyklus/2.1%20Zoznamy.md)
+	- 2.2 [For cyklus](02%20Zoznamy%20a%20for%20cyklus/2.2%20For%20cyklus.md)
+- 3 Stringy
+	- 3.1 [Stringy](03%20Stringy/3.1%20Stringy.md)
+- 4 Podmienky a while cyklus
+	- 4.1 [Podmienka if](04%20Podmienky%20a%20While%20cyklus/4.1%20Podmienka%20if.md)
+	- 4.2 [Podmienka when](04%20Podmienky%20a%20While%20cyklus/4.2%20Podmienka%20when.md)
+	- 4.3 [Podmienky ako výrazy](04%20Podmienky%20a%20While%20cyklus/4.3%20Podmienky%20ako%20v%C3%BDrazy.md)
+	- 4.4 [Cyklus while](04%20Podmienky%20a%20While%20cyklus/4.4%20Cyklus%20while.md)
+- 5 Funkcie - základy
+	- 5.1 [Plná definícia funkcie](05%20Funkcie%20-%20z%C3%A1klady/5.1%20Pln%C3%A1%20defin%C3%ADcia%20funkcie.md)
+	- 5.2 [Jednoriadkové funkcie](05%20Funkcie%20-%20z%C3%A1klady/5.2%20Jednoriadkov%C3%A9%20funkcie.md)
+	- 5.3 [Predvolené atribúty funkcie](05%20Funkcie%20-%20z%C3%A1klady/5.3%20Predvolen%C3%A9%20atrib%C3%BAty%20funkcie.md)
+	- 5.4 [Named arguments](05%20Funkcie%20-%20z%C3%A1klady/5.4%20Named%20arguments.md)
+- 6 Triedy a Objekty
+	- 6.1 [Triedy a Objekty - teória](06%20Triedy%20a%20Objekty/6.1%20Triedy%20a%20Objekty%20-%20te%C3%B3ria.md)
+	- 6.2 [Triedy a Objekty v jazyku Kotlin](06%20Triedy%20a%20Objekty/6.2%20Triedy%20a%20Objekty%20v%20jazyku%20Kotlin.md)
+	- 6.3 [Konštruktory](06%20Triedy%20a%20Objekty/6.3%20Kon%C5%A1truktory.md)
+- 7 Modifikátory prístupu a this
+	- 7.1 [Modifikátory private a public](07%20Modifik%C3%A1tory%20pr%C3%ADstupu%20a%20this/7.1%20Modifik%C3%A1tory%20private%20a%20public.md)
+	- 7.2 [Kľúčové slovo this](07%20Modifik%C3%A1tory%20pr%C3%ADstupu%20a%20this/7.2%20K%C4%BE%C3%BA%C4%8Dov%C3%A9%20slovo%20this.md)
+- 8 Dátové triedy
+	- 8.1 [Dátové triedy](08%20D%C3%A1tov%C3%A9%20triedy/8.1%20D%C3%A1tov%C3%A9%20triedy.md)
+- 9 Mapy a Sety
+	- 9.1 [Map](09%20Mapy%20a%20Sety/9.1%20Map.md)
+	- 9.2 [Set](09%20Mapy%20a%20Sety/9.2%20Set.md)
+- 10 Dedičnosť
+	- 10.1 [Kľúčové slovíčko open](10%20Dedi%C4%8Dnos%C5%A5/10.1%20K%C4%BE%C3%BA%C4%8Dov%C3%A9%20slov%C3%AD%C4%8Dko%20open.md)
+	- 10.2 [Kľúčové slovíčko override](10%20Dedi%C4%8Dnos%C5%A5/10.2%20K%C4%BE%C3%BA%C4%8Dov%C3%A9%20slov%C3%AD%C4%8Dko%20override.md)
+	- 10.3 [Kľúčové slovíčko super](10%20Dedi%C4%8Dnos%C5%A5/10.3%20K%C4%BE%C3%BA%C4%8Dov%C3%A9%20slov%C3%AD%C4%8Dko%20super.md)
+- 11 Abstraktné triedy
+	- 11.1 [Abstraktné triedy](11%20Abstraktn%C3%A9%20triedy/11.1%20Abstraktn%C3%A9%20triedy.md)
+- 12 Rozhrania
+	- 12.1 [Rozhrania](12%20Rozhrania/12.1%20Rozhrania.md)
+- 13 Výnimky
+	- 13.1 [Odchytávanie výnimiek](13%20V%C3%BDnimky/13.1%20Odchyt%C3%A1vanie%20v%C3%BDnimiek.md)
+	- 13.2 [Vlastné výnimky](13%20V%C3%BDnimky/13.2%20Vlastn%C3%A9%20v%C3%BDnimky.md)
+- 14 Build systémy
+	- 14.1 [Vytvorenie Gradle projektu](14%20Build%20syst%C3%A9my/14.1%20Vytvorenie%20Gradle%20projektu.md)
+	- 14.2 [Ukážka použitia knižnice cez Gradle](14%20Build%20syst%C3%A9my/14.2%20Uk%C3%A1%C5%BEka%20pou%C5%BEitia%20kni%C5%BEnice%20cez%20Gradle.md)
+- 15 JSON
+	- 15.1 [kotlinx serialization](15%20JSON/15.1%20kotlinx%20serialization.md)
+- 16 Sealed triedy
+	- 16.1 [Sealed triedy](16%20Sealed%20triedy/16.1%20Sealed%20triedy.md)
+- 17 Ktor client
+	- 17.1 [Vytvorenie HTTP requestu](17%20Ktor%20client/17.1%20Vytvorenie%20HTTP%20requestu.md)
+	- 17.2 [Parsovanie odpovede pomocou kotlinx serialization](17%20Ktor%20client/17.2%20Parsovanie%20odpovede%20pomocou%20kotlinx%20serialization.md)
+	- 17.3 [Ochytávanie výnimiek](17%20Ktor%20client/17.3%20Ochyt%C3%A1vanie%20v%C3%BDnimiek.md)
+	- 17.4 [Použitie sealed tried](17%20Ktor%20client/17.4%20Pou%C5%BEitie%20sealed%20tried.md)
+- 18 Ktor server
+	- 18.1 [Ktor server setup](18%20Ktor%20server/18.1%20Ktor%20server%20setup.md)
+	- 18.2 [Odpoveď na jednoduchú GET požiadavku](18%20Ktor%20server/18.2%20Odpove%C4%8F%20na%20jednoduch%C3%BA%20GET%20po%C5%BEiadavku.md)
+	- 18.3 [Odpoveď na jednoduchú POST požiadavku](18%20Ktor%20server/18.3%20Odpove%C4%8F%20na%20jednoduch%C3%BA%20POST%20po%C5%BEiadavku.md)
+	- 18.4 [Ukážka napojenia na databázu](18%20Ktor%20server/18.4%20Uk%C3%A1%C5%BEka%20napojenia%20na%20datab%C3%A1zu.md)
+- 19 Kotlin Multiplatform - desktop
+	- 19.1 [Kotlin Multiplatform - úvod](19%20Kotlin%20Multiplatform%20-%20desktop/19.1%20Kotlin%20Multiplatform%20-%20%C3%BAvod.md)
+	- 19.2 [JetPack Compose](19%20Kotlin%20Multiplatform%20-%20desktop/19.2%20JetPack%20Compose.md)
+- 20 JetPack Compose Texty a Tlačidlá
+	- 20.1 [Texty](20%20JetPack%20Compose%20Texty%20a%20Tla%C4%8Didl%C3%A1/20.1%20Texty.md)
+	- 20.2 [Funkcie vyššieho rádu](20%20JetPack%20Compose%20Texty%20a%20Tla%C4%8Didl%C3%A1/20.2%20Funkcie%20vy%C5%A1%C5%A1ieho%20r%C3%A1du.md)
+	- 20.3 [Tlačidlá](20%20JetPack%20Compose%20Texty%20a%20Tla%C4%8Didl%C3%A1/20.3%20Tla%C4%8Didl%C3%A1.md)
+- 21 JetPack Compose Layouty
+	- 21.1 [Column](21%20JetPack%20Compose%20Layouty/21.1%20Column.md)
+	- 21.2 [Row](21%20JetPack%20Compose%20Layouty/21.2%20Row.md)
+	- 21.3 [Box](21%20JetPack%20Compose%20Layouty/21.3%20Box.md)
+- 22 JetPack Compose vstupné textové polia
+	- 22.1 [TextField](22%20JetPack%20Compose%20vstupn%C3%A9%20textov%C3%A9%20polia/22.1%20TextField.md)
+	- 22.2 [OutlinedTextField](22%20JetPack%20Compose%20vstupn%C3%A9%20textov%C3%A9%20polia/22.2%20OutlinedTextField.md)
+	- 22.3 [BasicTextField](22%20JetPack%20Compose%20vstupn%C3%A9%20textov%C3%A9%20polia/22.3%20BasicTextField.md)
+
+Register
