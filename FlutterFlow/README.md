@@ -19,6 +19,7 @@ Obsah:
 - 6 Buttons & Navigation
 	- 6.1 [Pages](06%20Buttons%20%26%20Navigation/6.1%20Pages.md)
 	- 6.2 [Button](06%20Buttons%20%26%20Navigation/6.2%20Button.md)
+	- 6.3 [Alerty](06%20Buttons%20%26%20Navigation/6.3%20Alerty.md)
 - 7 Prepoužiteľné štýly
 	- 7.1 [Theme farby](07%20Prepou%C5%BEite%C4%BEn%C3%A9%20%C5%A1t%C3%BDly/7.1%20Theme%20farby.md)
 	- 7.2 [Theme design tokens](07%20Prepou%C5%BEite%C4%BEn%C3%A9%20%C5%A1t%C3%BDly/7.2%20Theme%20design%20tokens.md)
@@ -26,3 +27,15 @@ Obsah:
 - 8 Komponenty
 	- 8.1 [Vytvorenie komponentu](08%20Komponenty/8.1%20Vytvorenie%20komponentu.md)
 	- 8.2 [Parametre komponentu](08%20Komponenty/8.2%20Parametre%20komponentu.md)
+- 9 TextFields
+	- 9.1 [TextField základ](09%20TextFields/9.1%20TextField%20z%C3%A1klad.md)
+- 10 Globálne premenné
+	- 10.1 [App State](10%20Glob%C3%A1lne%20premenn%C3%A9/10.1%20App%20State.md)
+- 11 Premenné stránky
+	- 11.1 [Page State](11%20Premenn%C3%A9%20str%C3%A1nky/11.1%20Page%20State.md)
+- 12 Parametre stránky
+	- 12.1 [Page Parameter](12%20Parametre%20str%C3%A1nky/12.1%20Page%20Parameter.md)
+- 13 Akcie ako parametre komponentov
+	- 13.1 [Component Parameter](13%20Akcie%20ako%20parametre%20komponentov/13.1%20Component%20Parameter.md)
+- 14 Firebase setup
+	- 14.1 [Firebase projekt](14%20Firebase%20setup/14.1%20Firebase%20projekt.md)
