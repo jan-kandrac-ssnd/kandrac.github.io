@@ -23,7 +23,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Rewrites links between local .md files (e.g. "06%20Buttons/6.2%20Button.md")
+# Rewrites links between local .md files (e.g. "06-Buttons/6.2-Button.md")
 # so they point to the generated page instead of the raw Markdown file.
 relative_links:
   enabled: true
