@@ -1,0 +1,61 @@
+title: Študijné materiály
+description: >-
+  Kurzy Objektovo-Orientovaného programovania v Kotline a tvorby mobilných
+  aplikácií vo FlutterFlow, písané v Markdowne.
+lang: sk
+
+# See https://github.com/pages-themes/midnight
+theme: jekyll-theme-midnight
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Site is built and deployed via the .github/workflows/pages.yml GitHub
+# Actions workflow, so we're not limited to GitHub Pages' legacy plugin
+# allow-list/pinned gem versions.
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Rewrites links between local .md files (e.g. "06%20Buttons/6.2%20Button.md")
+# so they point to the generated page instead of the raw Markdown file.
+relative_links:
+  enabled: true
+  collections: true
+
+# Also stops the raw source .md from being copied to _site next to the
+# generated .html page for it.
+optional_front_matter:
+  remove_originals: true
+
+# Every folder's README.md becomes the index page for that folder
+# (e.g. /FlutterFlow/ serves FlutterFlow/README.md).
+readme_index:
+  with_frontmatter: true
+  remove_originals: true
+
+# Pulls the page title from the first heading when a file has no front matter.
+titles_from_headings:
+  enabled: true
+  strip_title: false
+
+# Every page/README is missing front matter on purpose (plain Markdown notes),
+# so apply the theme's layout to all of them by default.
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules

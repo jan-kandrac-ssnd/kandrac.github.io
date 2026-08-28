@@ -1,3 +1,11 @@
 /.idea
 /.firebender
 .DS_Store
+
+# Jekyll / GitHub Pages
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
