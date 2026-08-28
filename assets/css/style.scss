@@ -1,0 +1,139 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+/* ---------------------------------------------------------------- */
+/* Custom additions on top of the theme: top nav bar + course sidebar */
+/* ---------------------------------------------------------------- */
+
+.top-nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 12px 20px;
+  background-color: #151515;
+  border-bottom: 1px solid #333;
+  flex-wrap: wrap;
+
+  .site-name {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+
+  nav {
+    display: flex;
+    gap: 14px;
+
+    a {
+      color: #9dd4ff;
+      text-decoration: none;
+      padding: 4px 10px;
+      border-radius: 4px;
+
+      &:hover {
+        background-color: #2a2a2a;
+      }
+
+      &.active {
+        background-color: #4183c4;
+        color: #fff;
+      }
+    }
+  }
+}
+
+.layout {
+  display: flex;
+  align-items: flex-start;
+
+  .wrapper {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+.sidebar {
+  width: 260px;
+  flex-shrink: 0;
+  padding: 20px 14px;
+  box-sizing: border-box;
+  background-color: #1b1b1b;
+  border-right: 1px solid #333;
+  min-height: 100vh;
+  font-size: 0.85em;
+
+  .course-home {
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #333;
+
+    &.current,
+    &:hover {
+      color: #9dd4ff;
+    }
+  }
+
+  details {
+    margin-bottom: 4px;
+
+    summary {
+      cursor: pointer;
+      color: #ccc;
+      padding: 6px 4px;
+      border-radius: 4px;
+      text-transform: capitalize;
+
+      &:hover {
+        background-color: #2a2a2a;
+      }
+    }
+
+    ul {
+      list-style: none;
+      margin: 2px 0 6px 10px;
+      padding: 0;
+
+      li {
+        margin: 0;
+
+        a {
+          display: block;
+          padding: 4px 8px;
+          color: #9dd4ff;
+          text-decoration: none;
+          border-radius: 4px;
+          font-size: 0.95em;
+
+          &:hover {
+            background-color: #2a2a2a;
+          }
+
+          &.current {
+            background-color: #4183c4;
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 760px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    min-height: auto;
+    border-right: none;
+    border-bottom: 1px solid #333;
+  }
+}

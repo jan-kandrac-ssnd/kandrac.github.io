@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    {%- assign path_parts = page.url | split: '/' -%}
+    {%- assign course_key = path_parts[1] -%}
+    {%- assign courses = "Kotlin,FlutterFlow" | split: ',' -%}
+
+    <header class="top-nav">
+      <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <nav>
+        {%- for course in courses -%}
+        <a href="{{ site.baseurl }}/{{ course }}/"{% if course_key == course %} class="active"{% endif %}>{{ course }}</a>
+        {%- endfor -%}
+      </nav>
+    </header>
+
+    <div class="layout">
+      {%- if courses contains course_key -%}
+      <aside class="sidebar">
+        {%- assign course_prefix = '/' | append: course_key | append: '/' | prepend: site.baseurl -%}
+        {%- assign lesson_pages = site.pages | where_exp: "p", "p.url contains course_prefix" | where_exp: "p", "p.url != course_prefix" -%}
+        {%- assign chapters = lesson_pages | group_by_exp: "p", "p.url | remove_first: course_prefix | split: '/' | first" | sort: "name" -%}
+        <a class="course-home{% if page.url == course_prefix %} current{% endif %}" href="{{ course_prefix }}">{{ course_key }} - obsah</a>
+        {%- for chapter in chapters -%}
+          {%- assign is_current_chapter = false -%}
+          {%- for item in chapter.items -%}
+            {%- if item.url == page.url -%}{%- assign is_current_chapter = true -%}{%- endif -%}
+          {%- endfor -%}
+          {%- assign sorted_items = chapter.items | sort: "url" -%}
+          <details{% if is_current_chapter %} open{% endif %}>
+            <summary>{{ chapter.name | replace: '-', ' ' }}</summary>
+            <ul>
+              {%- for item in sorted_items -%}
+              {%- assign fallback_title = item.name | remove: '.md' | replace: '-', ' ' -%}
+              <li><a href="{{ item.url | relative_url }}"{% if item.url == page.url %} class="current"{% endif %}>{{ item.title | default: fallback_title }}</a></li>
+              {%- endfor -%}
+            </ul>
+          </details>
+        {%- endfor -%}
+      </aside>
+      {%- endif -%}
+
+      <div class="wrapper">
+        <section>
+          {{ content }}
+        </section>
+      </div>
+    </div>
+  </body>
+</html>
