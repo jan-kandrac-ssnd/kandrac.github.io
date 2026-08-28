@@ -1,18 +1,33 @@
 <!doctype html>
+{%- assign path_parts = page.url | split: '/' -%}
+{%- assign course_key = path_parts[1] -%}
+{%- assign chapter_key = path_parts[2] -%}
+{%- assign courses = "Kotlin,FlutterFlow" | split: ',' -%}
+{%- assign in_course = false -%}
+{%- if courses contains course_key -%}
+  {%- assign in_course = true -%}
+  {%- if chapter_key -%}
+    {%- assign chapter_display = chapter_key | replace: '-', ' ' -%}
+    {%- assign browser_title = course_key | append: ' - ' | append: chapter_display -%}
+  {%- else -%}
+    {%- assign browser_title = course_key -%}
+  {%- endif -%}
+{%- endif -%}
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {%- if in_course -%}
+    <title>{{ browser_title }}</title>
+    {% seo title=false %}
+    {%- else -%}
+    {% seo %}
+    {%- endif -%}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    {%- assign path_parts = page.url | split: '/' -%}
-    {%- assign course_key = path_parts[1] -%}
-    {%- assign courses = "Kotlin,FlutterFlow" | split: ',' -%}
-
     <header class="top-nav">
       <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
       <nav>
@@ -23,7 +38,7 @@
     </header>
 
     <div class="layout">
-      {%- if courses contains course_key -%}
+      {%- if in_course -%}
       <aside class="sidebar">
         {%- assign course_prefix = '/' | append: course_key | append: '/' | prepend: site.baseurl -%}
         {%- assign lesson_pages = site.pages | where_exp: "p", "p.url contains course_prefix" | where_exp: "p", "p.url != course_prefix" -%}
