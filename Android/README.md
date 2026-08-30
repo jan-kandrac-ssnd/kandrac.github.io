@@ -1,0 +1,74 @@
+Vitaj v kurze **Programovanie mobilných aplikácií v jazyku Kotlin**. V tomto kurze spoznáš nástroj AndroidStudio a prácu
+s jazykom Kotlin pre vývoj mobilných aplikácií. Konkrétne budeme pracovať vo frameworkoch **Kotlin Multiplatform** a
+**JetPack Compose**.
+
+Obsah:
+- 0 Setup
+	- 0.1 [Vývojové prostredie](00-Setup/0.1-Vyvojove-prostredie.md)
+	- 0.2 [Emulátor](00-Setup/0.2-Emulator.md)
+	- 0.3 [USB Debugging](00-Setup/0.3-USB-Debugging.md)
+- 1 Android Studio
+	- 0.1 [Prehľad Android Studia](01-Android-Studio/0.1-Prehlad-Android-Studia.md)
+- 2 Texty a farby
+	- 2.1 [Text Composable](02-Texty-a-Farby/2.1-Text-Composable.md)
+	- 2.2 [Štylovanie textov](02-Texty-a-Farby/2.2-Stylovanie-Textov.md)
+	- 2.3 [Fonty](02-Texty-a-Farby/2.3-Fonty.md)
+- 3 Layouty
+	- 3.1 [Prehľad](03-Layouty/3.1-Prehlad.md)
+	- 3.2 [Column](03-Layouty/3.2-Column.md)
+	- 3.3 [Row](03-Layouty/3.3-Row.md)
+	- 3.4 [Box](03-Layouty/3.4-Box.md)
+- 4 Modifikátory
+	- 4.1 [Modifikátory veľkosti](04-Modifikatory/4.1-Modifikatory-velkosti.md)
+	- 4.2 [Modifikátory odsadenia a farieb](04-Modifikatory/4.2-Modifikatory-odsadenia-a-farieb.md)
+- 5 Tlačidlá a rekompozícia
+	- 5.1 [Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
+	- 5.2 [MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
+- 6 TextField
+	- 6.1 [TextField](06-TextField/6.1-TextField.md)
+- 7 Vektorové obrázky
+	- 7.1 [Importovanie SVG](07-Vektorove-obrazky/7.1-Importovanie-svg.md)
+	- 7.2 [Icon Composable](07-Vektorove-obrazky/7.2-Icon-Composable.md)
+- 8 Rastrové obrázky
+	- 8.1 [Importovanie rastrových obrázkov](08-Rastrove-obrazky/8.1-Importovanie-rastrovych-obrazkov.md)
+	- 8.2 [Image Composable](08-Rastrove-obrazky/8.2-Image-Composable.md)
+	- 8.3 [Content Scale](08-Rastrove-obrazky/8.3-Content-Scale.md)
+- 9 SplashScreen a App Icon
+	- 9.1 [SplashScreen](09-SplashScreen-a-App-Icon/9.1-SplashScreen.md)
+	- 9.2 [App Icon](09-SplashScreen-a-App-Icon/9.2-App-Icon.md)
+- 10 Navigácia
+	- 10.1 [Compose Navigation](10-Navigacia/10.1-Compose-Navigation.md)
+	- 10.2 [Parametre](10-Navigacia/10.2-Parametre.md)
+- 11 LazyColumn
+	- 11.1 [LazyColumn](11-LazyColumn/11.1-LazyColumn.md)
+- 12 Obrázky z internetu
+	- 12.1 [Coil](12-Obrazky-z-internetu/12.1-Coil.md)
+- 13 JSON
+	- 13.1 [kotlinx serialization](13-JSON/13.1-Kotlinx-serialization.md)
+- 14 Datastore
+	- 14.1 [DataStore](14-Datastore/14.1-DataStore.md)
+- 15 Databázy
+	- 15.1 [Room Setup](15-Databazy/15.1-Room-Setup.md)
+	- 15.2 [Použitie Room](15-Databazy/15.2-Room-Pouzitie.md)
+- 16 REST
+	- 16.1 [Ktor Setup](16-REST/16.1-Ktor-Setup.md)
+	- 16.2 [Ktor HTTP metódy](16-REST/16.2-Ktor-HTTP-metody.md)
+- 17 Dialógy
+	- 17.1 [Zobrazenie dialógov](17-Dialogy/17.1-Zobrazenie-Dialogov.md)
+- 18 Runtime Permissions
+	- 18.1 [Čo sú runtime permissions](18-Runtime-Permissions/18.1-Co-su-runtime-permissions.md)
+	- 18.2 [Moko runtime permissions](18-Runtime-Permissions/18.2-Moko-runtime-permissions.md)
+- 19 Lokálne notifikácie
+	- 19.1 [Vytvorenie notifikačného kanálu](19-Lokalne-notifikacie/19.1-Vytvorenie-notifikacneho-kanalu.md)
+	- 19.2 [Zobrazenie notifikácie](19-Lokalne-notifikacie/19.2-Zobrazenie-notifikacie.md)
+- 20 String Resources
+	- 20.1 [Preklady aplikácie](20-String-Resources/20.1-Preklady-aplikacie.md)
+	- 20.2 [Preklady aplikácie v praxi](20-String-Resources/20.2-Preklady-aplikacie-v-praxi.md)
+- 21 Firebase Setup
+	- 21.1 [Čo je Firebase](21-Firebase-Setup/21.1-Co-je-Firebase.md)
+	- 21.2 [Firebase setup](21-Firebase-Setup/21.2-Firebase-setup.md)
+- 22 Push notifikácie
+	- 22.1 [Čo je Firebase](22-Push-Notifikacie/22.1-Co-je-Firebase.md)
+	- 23.2 [Firebase setup](22-Push-Notifikacie/23.2-Firebase-setup.md)
+- 23 Externé aplikácie
+	- 23.1 [Ako spustiť externé aplikácie](23-Externe-aplikacie/23.1-Ako-spustit-externe-aplikacie.md)

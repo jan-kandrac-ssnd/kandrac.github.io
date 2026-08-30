@@ -1,6 +1,8 @@
 Vitaj v kurze *FlutterFlow*. V tomto kurze sa naučíš vytvárať používateľské rozhrania, pracovať s widgetmi, navigáciou, štýlmi a opakovane použiteľnými komponentmi.
 
 Obsah:
+- 0 Setup
+    - 0.1 [Vývojové prostredie (FlutterFlow)](00-Setup/0.1-Setup.md)
 - 1 Prostredie FlutterFlow
 	- 1.1 [AppBuilder](01-Prostredie-FlutterFlow/1.1-AppBuilder.md)
 - 2 Layouty a Widget Tree
