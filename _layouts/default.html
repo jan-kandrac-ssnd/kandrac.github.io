@@ -39,6 +39,10 @@
 
     <div class="layout">
       {%- if in_course -%}
+      <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle-checkbox">
+      <label for="sidebar-toggle" class="sidebar-toggle-label">
+        <span class="icon">☰</span> {{ course_key }} - obsah
+      </label>
       <aside class="sidebar">
         {%- assign course_prefix = '/' | append: course_key | append: '/' | prepend: site.baseurl -%}
         {%- assign lesson_pages = site.pages | where_exp: "p", "p.url contains course_prefix" | where_exp: "p", "p.url != course_prefix" -%}
