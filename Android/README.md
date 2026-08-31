@@ -8,7 +8,8 @@ Obsah:
 	- 0.2 [Emulátor](00-Setup/0.2-Emulator.md)
 	- 0.3 [USB Debugging](00-Setup/0.3-USB-Debugging.md)
 - 1 Android Studio
-	- 0.1 [Prehľad Android Studia](01-Android-Studio/0.1-Prehlad-Android-Studia.md)
+	- 1.1 [Prehľad Android Studia](01-Android-Studio/1.1-Prehlad-Android-Studia.md)
+	- 1.2 [Nastavenie minimálneho projektu](01-Android-Studio/1.2-Nastavenie-minimalneho-projektu.md)
 - 2 Texty a farby
 	- 2.1 [Text Composable](02-Texty-a-Farby/2.1-Text-Composable.md)
 	- 2.2 [Štylovanie textov](02-Texty-a-Farby/2.2-Stylovanie-Textov.md)
