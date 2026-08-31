@@ -5,8 +5,9 @@ s jazykom Kotlin pre vývoj mobilných aplikácií. Konkrétne budeme pracovať 
 Obsah:
 - 0 Setup
 	- 0.1 [Vývojové prostredie](00-Setup/0.1-Vyvojove-prostredie.md)
-	- 0.2 [Emulátor](00-Setup/0.2-Emulator.md)
-	- 0.3 [USB Debugging](00-Setup/0.3-USB-Debugging.md)
+	- 0.2 [Vytvorenie prázdneho projektu](00-Setup/0.2-Vytvorenie-prazdneho-projektu.md)
+	- 0.3 [Emulátor](00-Setup/0.3-Emulator.md)
+    - 0.4 [USB Debugging](00-Setup/0.4-USB-Debugging.md)
 - 1 Android Studio
 	- 1.1 [Prehľad Android Studia](01-Android-Studio/1.1-Prehlad-Android-Studia.md)
 	- 1.2 [Nastavenie minimálneho projektu](01-Android-Studio/1.2-Nastavenie-minimalneho-projektu.md)
