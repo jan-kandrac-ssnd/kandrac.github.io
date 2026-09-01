@@ -125,6 +125,52 @@
   }
 }
 
+// The theme (jekyll-theme-midnight) styles `ul` bullets with a rasterized
+// ">>" image (`list-style-image`), which looks blurry/pixelated on modern
+// screens. Swap it for a standard vector bullet instead.
+ul {
+  list-style-image: none;
+  list-style-type: disc;
+}
+
+// Native `<details>/<summary>` blocks used in lesson content (e.g. "Pomôcka"
+// hints). The theme's normalize.css forces `summary { display: block; }`,
+// which strips the browser's default disclosure triangle entirely. Add a
+// custom chevron marker back in, plus a hover highlight to match the
+// sidebar's details/summary treatment.
+.wrapper details {
+  margin: 0 0 20px;
+
+  summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    color: #ffcc00;
+    font-weight: bold;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "▶";
+      display: inline-block;
+      margin-right: 8px;
+      font-size: 0.7em;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover {
+      background-color: #2a2a2a;
+    }
+  }
+
+  &[open] summary::before {
+    transform: rotate(90deg);
+  }
+}
+
 // Inline `code` chips get a darker background (the theme leaves them
 // transparent by default); code inside fenced/highlighted blocks already
 // has its own background from `pre`, so it's excluded here.
