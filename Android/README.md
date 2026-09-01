@@ -21,8 +21,9 @@ Obsah:
 	- 3.3 [Row](03-Layouty/3.3-Row.md)
 	- 3.4 [Box](03-Layouty/3.4-Box.md)
 - 4 Modifikátory
-	- 4.1 [Modifikátory veľkosti](04-Modifikatory/4.1-Modifikatory-velkosti.md)
-	- 4.2 [Modifikátory odsadenia a farieb](04-Modifikatory/4.2-Modifikatory-odsadenia-a-farieb.md)
+	- 4.1 [Modifikátory pozadia a rámčeka](04-Modifikatory/4.1-Modifikatory-pozadia-a-ramceka.md)
+	- 4.2 [Modifikátory veľkosti](04-Modifikatory/4.2-Modifikatory-velkosti.md)
+	- 4.3 [Scoped modifikátory](04-Modifikatory/4.3-Scoped-Modifikatory.md)
 - 5 Tlačidlá a rekompozícia
 	- 5.1 [Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
 	- 5.2 [MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
