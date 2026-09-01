@@ -138,6 +138,14 @@ pre code {
   border: none;
 }
 
+// Center standalone images (an image alone on its own Markdown line becomes
+// `<p><img></p>`, i.e. the img is the only element child of its paragraph).
+// Images used inline within a sentence, or inside table cells, are left as-is.
+.wrapper p > img:only-child {
+  display: block;
+  margin: 0 auto;
+}
+
 kbd {
   display: inline-block;
   padding: 0.15em 0.5em;
