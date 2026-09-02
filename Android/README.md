@@ -27,15 +27,13 @@ Obsah:
 - 5 Tlačidlá a rekompozícia
 	- 5.1 [Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
 	- 5.2 [MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
-- 6 TextField
-	- 6.1 [TextField](06-TextField/6.1-TextField.md)
-- 7 Vektorové obrázky
-	- 7.1 [Importovanie SVG](07-Vektorove-obrazky/7.1-Importovanie-svg.md)
-	- 7.2 [Icon Composable](07-Vektorove-obrazky/7.2-Icon-Composable.md)
-- 8 Rastrové obrázky
-	- 8.1 [Importovanie rastrových obrázkov](08-Rastrove-obrazky/8.1-Importovanie-rastrovych-obrazkov.md)
-	- 8.2 [Image Composable](08-Rastrove-obrazky/8.2-Image-Composable.md)
-	- 8.3 [Content Scale](08-Rastrove-obrazky/8.3-Content-Scale.md)
+- 6 Vektorové obrázky
+	- 6.1 [Ikony](06-Vektorove-obrazky/6.1-Ikony.md)
+- 7 Rastrové obrázky
+	- 7.1 [Importovanie rastrových obrázkov](07-Rastrove-obrazky/7.1-Importovanie-rastrovych-obrazkov.md)
+	- 7.2 [Image Composable](07-Rastrove-obrazky/7.2-Image-Composable.md)
+- 8 TextField
+	- 8.1 [TextField](08-TextField/8.1-TextField.md)
 - 9 SplashScreen a App Icon
 	- 9.1 [SplashScreen](09-SplashScreen-a-App-Icon/9.1-SplashScreen.md)
 	- 9.2 [App Icon](09-SplashScreen-a-App-Icon/9.2-App-Icon.md)
