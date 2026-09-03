@@ -39,7 +39,6 @@ Obsah:
 	- 9.2 [App Icon](09-SplashScreen-a-App-Icon/9.2-Launcher-Icon.md)
 - 10 Navigácia
 	- 10.1 [Compose Navigation](10-Navigacia/10.1-Compose-Navigation.md)
-	- 10.2 [Parametre](10-Navigacia/10.2-Parametre.md)
 - 11 LazyColumn
 	- 11.1 [LazyColumn](11-LazyColumn/11.1-LazyColumn.md)
 - 12 Obrázky z internetu
