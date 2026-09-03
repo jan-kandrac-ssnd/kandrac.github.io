@@ -46,30 +46,32 @@ Obsah:
 	- 12.1 [Coil](12-Obrazky-z-internetu/12.1-Coil.md)
 - 13 JSON
 	- 13.1 [kotlinx serialization](13-JSON/13.1-Kotlinx-serialization.md)
-- 14 Datastore
-	- 14.1 [DataStore](14-Datastore/14.1-DataStore.md)
-- 15 Databázy
-	- 15.1 [Room Setup](15-Databazy/15.1-Room-Setup.md)
-	- 15.2 [Použitie Room](15-Databazy/15.2-Room-Pouzitie.md)
-- 16 REST
-	- 16.1 [Ktor Setup](16-REST/16.1-Ktor-Setup.md)
-	- 16.2 [Ktor HTTP metódy](16-REST/16.2-Ktor-HTTP-metody.md)
-- 17 Dialógy
-	- 17.1 [Zobrazenie dialógov](17-Dialogy/17.1-Zobrazenie-Dialogov.md)
-- 18 Runtime Permissions
-	- 18.1 [Čo sú runtime permissions](18-Runtime-Permissions/18.1-Co-su-runtime-permissions.md)
-	- 18.2 [Moko runtime permissions](18-Runtime-Permissions/18.2-Moko-runtime-permissions.md)
-- 19 Lokálne notifikácie
-	- 19.1 [Vytvorenie notifikačného kanálu](19-Lokalne-notifikacie/19.1-Vytvorenie-notifikacneho-kanalu.md)
-	- 19.2 [Zobrazenie notifikácie](19-Lokalne-notifikacie/19.2-Zobrazenie-notifikacie.md)
-- 20 String Resources
-	- 20.1 [Preklady aplikácie](20-String-Resources/20.1-Preklady-aplikacie.md)
-	- 20.2 [Preklady aplikácie v praxi](20-String-Resources/20.2-Preklady-aplikacie-v-praxi.md)
-- 21 Firebase Setup
-	- 21.1 [Čo je Firebase](21-Firebase-Setup/21.1-Co-je-Firebase.md)
-	- 21.2 [Firebase setup](21-Firebase-Setup/21.2-Firebase-setup.md)
-- 22 Push notifikácie
-	- 22.1 [Čo je Firebase](22-Push-Notifikacie/22.1-Co-je-Firebase.md)
-	- 23.2 [Firebase setup](22-Push-Notifikacie/23.2-Firebase-setup.md)
-- 23 Externé aplikácie
-	- 23.1 [Ako spustiť externé aplikácie](23-Externe-aplikacie/23.1-Ako-spustit-externe-aplikacie.md)
+- 14 Efekty
+	- 14.1 [LaunchedEffect](14-Efekty/14.1-LaunchedEffect.md)
+- 15 Datastore
+	- 15.1 [DataStore](15-Datastore/15.1-DataStore.md)
+- 16 Databázy
+	- 16.1 [Room Setup](16-Databazy/16.1-Room-Setup.md)
+	- 16.2 [Použitie Room](16-Databazy/16.2-Room-Pouzitie.md)
+- 17 REST
+	- 17.1 [Ktor Setup](17-REST/17.1-Ktor-Setup.md)
+	- 17.2 [Ktor HTTP metódy](17-REST/17.2-Ktor-HTTP-metody.md)
+- 18 Dialógy
+	- 18.1 [Zobrazenie dialógov](18-Dialogy/18.1-Zobrazenie-Dialogov.md)
+- 19 Runtime Permissions
+	- 19.1 [Čo sú runtime permissions](19-Runtime-Permissions/19.1-Co-su-runtime-permissions.md)
+	- 19.2 [Moko runtime permissions](19-Runtime-Permissions/19.2-Moko-runtime-permissions.md)
+- 20 Lokálne notifikácie
+	- 20.1 [Vytvorenie notifikačného kanálu](20-Lokalne-notifikacie/20.1-Vytvorenie-notifikacneho-kanalu.md)
+	- 20.2 [Zobrazenie notifikácie](20-Lokalne-notifikacie/20.2-Zobrazenie-notifikacie.md)
+- 21 String Resources
+	- 21.1 [Preklady aplikácie](21-String-Resources/21.1-Preklady-aplikacie.md)
+	- 21.2 [Preklady aplikácie v praxi](21-String-Resources/21.2-Preklady-aplikacie-v-praxi.md)
+- 22 Firebase Setup
+	- 22.1 [Čo je Firebase](22-Firebase-Setup/22.1-Co-je-Firebase.md)
+	- 22.2 [Firebase setup](22-Firebase-Setup/22.2-Firebase-setup.md)
+- 23 Push notifikácie
+	- 23.1 [Čo je Firebase](23-Push-Notifikacie/23.1-Co-je-Firebase.md)
+	- 23.2 [Firebase setup](23-Push-Notifikacie/23.2-Firebase-setup.md)
+- 24 Externé aplikácie
+	- 24.1 [Ako spustiť externé aplikácie](24-Externe-aplikacie/24.1-Ako-spustit-externe-aplikacie.md)
