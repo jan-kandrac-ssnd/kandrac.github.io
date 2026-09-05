@@ -7,10 +7,11 @@
 {%- if courses contains course_key -%}
   {%- assign in_course = true -%}
   {%- if chapter_key -%}
-    {%- assign chapter_display = chapter_key | replace: '-', ' ' -%}
-    {%- assign browser_title = course_key | append: ' - ' | append: chapter_display -%}
+    {%- assign fallback_title = page.name | remove: '.md' | replace: '-', ' ' -%}
+    {%- assign lesson_title = page.title | default: fallback_title -%}
+    {%- assign browser_title = lesson_title -%}
   {%- else -%}
-    {%- assign browser_title = course_key -%}
+    {%- assign browser_title = page.title | default: course_key -%}
   {%- endif -%}
 {%- endif -%}
 <html lang="{{ site.lang | default: "en-US" }}">
