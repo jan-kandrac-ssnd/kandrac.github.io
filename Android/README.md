@@ -52,15 +52,15 @@ Obsah:
 	- 14.1 [Ktor Setup](14-REST/14.1-Ktor-Setup.md)
 	- 14.2 [Ktor HTTP metódy](14-REST/14.2-Ktor-Use-Cases.md)
     - 14.3 [Ktor autentifikácia](14-REST/14.3-Ktor-Auth.md)
-- 15 Datastore
-	- 15.1 [DataStore](15-Datastore/15.1-DataStore.md)
-- 16 Databázy
-	- 16.1 [Room Setup](16-Databazy/16.1-Room-Setup.md)
-	- 16.2 [Použitie Room](16-Databazy/16.2-Room-Pouzitie.md)
-- 17 Efekty
-	- 17.1 [LaunchedEffect](17-Efekty-a-ViewModely/17.1-LaunchedEffect.md)
-- 18 Dialógy
-	- 18.1 [Zobrazenie dialógov](18-Dialogy/18.1-Zobrazenie-Dialogov.md)
+- 15 ViewModel
+    - 15.1 [Architektúra JetPack Compose aplikácií](15-ViewModel/15.1-ViewModely.md)
+- 16 Datastore
+	- 16.1 [DataStore](16-Datastore/16.1-DataStore.md)
+- 17 Databázy
+	- 17.1 [Room Setup](17-Databazy/17.1-Room-Setup.md)
+	- 17.2 [Použitie Room](17-Databazy/17.2-Room-Pouzitie.md)
+- 18 Efekty
+	- 18.1 [LaunchedEffect](18-Efekty-a-Dialogy/18.1-LaunchedEffect.md)
 - 19 Runtime Permissions
 	- 19.1 [Čo sú runtime permissions](19-Runtime-Permissions/19.1-Co-su-runtime-permissions.md)
 	- 19.2 [Moko runtime permissions](19-Runtime-Permissions/19.2-Moko-runtime-permissions.md)
