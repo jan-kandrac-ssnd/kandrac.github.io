@@ -48,16 +48,17 @@ Obsah:
 	- 12.1 [Coil](12-Obrazky-z-internetu/12.1-Coil.md)
 - 13 JSON
 	- 13.1 [kotlinx serialization](13-JSON/13.1-Kotlinx-serialization.md)
-- 14 Efekty
-	- 14.1 [LaunchedEffect](14-Efekty/14.1-LaunchedEffect.md)
+- 14 REST
+	- 14.1 [Ktor Setup](14-REST/14.1-Ktor-Setup.md)
+	- 14.2 [Ktor HTTP metódy](14-REST/14.2-Ktor-Use-Cases.md)
+    - 14.3 [Ktor autentifikácia](14-REST/14.3-Ktor-Auth.md)
 - 15 Datastore
 	- 15.1 [DataStore](15-Datastore/15.1-DataStore.md)
 - 16 Databázy
 	- 16.1 [Room Setup](16-Databazy/16.1-Room-Setup.md)
 	- 16.2 [Použitie Room](16-Databazy/16.2-Room-Pouzitie.md)
-- 17 REST
-	- 17.1 [Ktor Setup](17-REST/17.1-Ktor-Setup.md)
-	- 17.2 [Ktor HTTP metódy](17-REST/17.2-Ktor-HTTP-metody.md)
+- 17 Efekty
+	- 17.1 [LaunchedEffect](17-Efekty-a-ViewModely/17.1-LaunchedEffect.md)
 - 18 Dialógy
 	- 18.1 [Zobrazenie dialógov](18-Dialogy/18.1-Zobrazenie-Dialogov.md)
 - 19 Runtime Permissions
