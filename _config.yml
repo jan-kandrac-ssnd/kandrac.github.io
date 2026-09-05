@@ -12,6 +12,16 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# Silences Dart Sass's "@import rules are deprecated" warnings on every
+# build/serve. `quiet_deps` covers the ones coming from the theme gem's own
+# stylesheets (loaded via the Sass load path); `silence_deprecations`
+# belt-and-suspenders covers any @import warning that slips through
+# (e.g. from our own assets/css/style.scss).
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+
 # Site is built and deployed via the .github/workflows/pages.yml GitHub
 # Actions workflow, so we're not limited to GitHub Pages' legacy plugin
 # allow-list/pinned gem versions.
