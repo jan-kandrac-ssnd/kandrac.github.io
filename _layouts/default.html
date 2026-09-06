@@ -38,7 +38,9 @@
   </head>
   <body>
     <header class="top-nav">
-      <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a class="site-name" href="{{ '/' | relative_url }}">
+        <img class="site-logo" src="{{ '/icons/plain-logo.svg' | relative_url }}" alt="{{ site.title }}">
+      </a>
       <nav>
         {%- for course in courses -%}
         <a href="{{ site.baseurl }}/{{ course }}/"{% if course_key == course %} class="active"{% endif %}>{{ course }}</a>

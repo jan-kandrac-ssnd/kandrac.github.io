@@ -7,6 +7,17 @@
 /* Custom additions on top of the theme: top nav bar + course sidebar */
 /* ---------------------------------------------------------------- */
 
+// General hyperlink color for lesson content (overrides the theme's default
+// yellow). Nav bar / sidebar links below use their own, more specific rules,
+// so they aren't affected by this.
+a {
+  color: #f6944e;
+
+  &:hover {
+    color: #f6944e;
+  }
+}
+
 .top-nav {
   display: flex;
   align-items: center;
@@ -17,10 +28,16 @@
   flex-wrap: wrap;
 
   .site-name {
-    color: #fff;
-    font-weight: bold;
-    text-decoration: none;
+    display: flex;
+    align-items: center;
     margin-right: 10px;
+  }
+
+  .site-logo {
+    display: block;
+    height: 36px;
+    width: 36px;
+    border-radius: 8px;
   }
 
   nav {
@@ -28,7 +45,7 @@
     gap: 14px;
 
     a {
-      color: #9dd4ff;
+      color: #f6944e;
       text-decoration: none;
       padding: 4px 10px;
       border-radius: 4px;
@@ -38,7 +55,7 @@
       }
 
       &.active {
-        background-color: #4183c4;
+        background-color: #f6944e;
         color: #fff;
       }
     }
@@ -76,7 +93,7 @@
 
     &.current,
     &:hover {
-      color: #9dd4ff;
+      color: #f6944e;
     }
   }
 
@@ -106,7 +123,7 @@
         a {
           display: block;
           padding: 4px 8px;
-          color: #9dd4ff;
+          color: #f6944e;
           text-decoration: none;
           border-radius: 4px;
           font-size: 0.95em;
@@ -116,7 +133,7 @@
           }
 
           &.current {
-            background-color: #4183c4;
+            background-color: #f6944e;
             color: #fff;
           }
         }
