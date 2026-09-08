@@ -2,7 +2,7 @@
 {%- assign path_parts = page.url | split: '/' -%}
 {%- assign course_key = path_parts[1] -%}
 {%- assign chapter_key = path_parts[2] -%}
-{%- assign courses = "Kotlin,FlutterFlow,Android" | split: ',' -%}
+{%- assign courses = "Git,Kotlin,FlutterFlow,Android" | split: ',' -%}
 {%- assign in_course = false -%}
 {%- if courses contains course_key -%}
   {%- assign in_course = true -%}
