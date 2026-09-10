@@ -201,6 +201,20 @@ pre code {
   border: none;
 }
 
+// Mermaid diagrams (see _layouts/default.html) are rendered as inline SVG
+// inside a `.mermaid` div. Give them a card-like frame and center them so
+// they match the rest of the dark theme.
+.mermaid {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  padding: 16px;
+  background-color: #1b1b1b;
+  border: 1px solid #333;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
 // Center standalone images (an image alone on its own Markdown line becomes
 // `<p><img></p>`, i.e. the img is the only element child of its paragraph).
 // Images used inline within a sentence, or inside table cells, are left as-is.

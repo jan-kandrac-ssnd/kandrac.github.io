@@ -7,7 +7,8 @@ Obsah:
     - [0.3 Inštalácia Git na Linux](00-Instalacia/0.3-Instalacia-Linux.md)
     - [0.4 Inštalácia Git na Mac](00-Instalacia/0.4-Instalacia-Mac.md)
 - 1 Konfigurácia Gitu
-    - [0.1 Inicializácia repozitára](01-Konfiguracia-Gitu/1.1-Inicializacia-repozitara.md)
-    - [0.2 Konfigurácia Gitu](01-Konfiguracia-Gitu/1.2-Konfiguracia.md) 
-- 2 Zaznamenanie zmeny v Gite
-    - [0.1 Git Add](02-Zaznamenanie-zmeny-v-Gite/2.1-git-add-commit.md)
+    - [1.1 Inicializácia repozitára](01-Konfiguracia-Gitu/1.1-Inicializacia-repozitara.md)
+    - [1.2 Konfigurácia Gitu](01-Konfiguracia-Gitu/1.2-Konfiguracia.md) 
+- 2 Zaznamenanie zmeny v Gite - `git add` a `git commit`
+    - [2.1 Zaznamenanie zmeny v Gite](02-Zaznamenanie-zmeny-v-Gite/2.1-git-add-commit.md)
+    - [2.2 Git Status](02-Zaznamenanie-zmeny-v-Gite/2.2-git-status.md)
