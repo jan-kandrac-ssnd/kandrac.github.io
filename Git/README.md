@@ -11,4 +11,11 @@ Obsah:
     - [1.2 Konfigurácia Gitu](01-Konfiguracia-Gitu/1.2-Konfiguracia.md) 
 - 2 Zaznamenanie zmeny v Gite - `git add` a `git commit`
     - [2.1 Zaznamenanie zmeny v Gite](02-Zaznamenanie-zmeny-v-Gite/2.1-git-add-commit.md)
-    - [2.2 Git Status](02-Zaznamenanie-zmeny-v-Gite/2.2-git-status.md)
+- 3 Stavy súborov v Gite
+    - [3.1 Git Status](03-Stavy-suborov-v-gite/3.1-git-status.md)
+- 4 Prehliadanie zmien v Gite
+    - [4.1 Git Log](04-Prehliadanie-zmien-v-gite/4.1-git-log.md)
+- 5 Vetvenie - úvod
+    - [5.1 Vetvenie - úvod](05-Vetvenie-uvod/5.1-Vetvenie-uvod.md)
+    - [5.2 Git Branch](05-Vetvenie-uvod/5.2-git-branch.md)
+    - [5.3 Git Checkout](05-Vetvenie-uvod/5.3-git-checkout.md)
