@@ -8,7 +8,9 @@ Obsah:
     - [0.4 Inštalácia Git na Mac](00-Instalacia/0.4-Instalacia-Mac.md)
 - 1 Konfigurácia Gitu
     - [1.1 Inicializácia repozitára](01-Konfiguracia-Gitu/1.1-Inicializacia-repozitara.md)
-    - [1.2 Konfigurácia Gitu](01-Konfiguracia-Gitu/1.2-Konfiguracia.md) 
+    - [1.2 Test - inicializácia repozitára](01-Konfiguracia-Gitu/1.2-Test.md)
+    - [1.3 Konfigurácia Gitu](01-Konfiguracia-Gitu/1.3-Konfiguracia.md)
+    - [1.4 Test - konfigurácia](01-Konfiguracia-Gitu/1.4-Test.md)
 - 2 Zaznamenanie zmeny v Gite - `git add` a `git commit`
     - [2.1 Zaznamenanie zmeny v Gite](02-Zaznamenanie-zmeny-v-Gite/2.1-git-add-commit.md)
 - 3 Stavy súborov v Gite
