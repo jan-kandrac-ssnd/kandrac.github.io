@@ -13,6 +13,7 @@ Obsah:
     - [1.4 Test - konfigurácia](01-Konfiguracia-Gitu/1.4-Test.md)
 - 2 Zaznamenanie zmeny v Gite - `git add` a `git commit`
     - [2.1 Zaznamenanie zmeny v Gite](02-Zaznamenanie-zmeny-v-Gite/2.1-git-add-commit.md)
+    - [2.2 Test - stavy súborov](02-Zaznamenanie-zmeny-v-Gite/2.2-Test.md)
 - 3 Stavy súborov v Gite
     - [3.1 Git Status](03-Stavy-suborov-v-gite/3.1-git-status.md)
 - 4 Prehliadanie zmien v Gite
