@@ -4,77 +4,77 @@ s jazykom Kotlin pre vývoj mobilných aplikácií. Konkrétne budeme pracovať 
 
 Obsah:
 - 0 Setup
-	- 0.1 [Vývojové prostredie](00-Setup/0.1-Vyvojove-prostredie.md)
-	- 0.2 [Vytvorenie prázdneho projektu](00-Setup/0.2-Vytvorenie-prazdneho-projektu.md)
-	- 0.3 [Emulátor](00-Setup/0.3-Emulator.md)
-    - 0.4 [USB Debugging](00-Setup/0.4-USB-Debugging.md)
+    - [0.1 Vývojové prostredie](00-Setup/0.1-Vyvojove-prostredie.md)
+    - [0.2 Vytvorenie prázdneho projektu](00-Setup/0.2-Vytvorenie-prazdneho-projektu.md)
+    - [0.3 Emulátor](00-Setup/0.3-Emulator.md)
+    - [0.4 USB Debugging](00-Setup/0.4-USB-Debugging.md)
 - 1 Android Studio
-	- 1.1 [Prehľad Android Studia](01-Android-Studio/1.1-Prehlad-Android-Studia.md)
-	- 1.2 [Súborová štruktúra](01-Android-Studio/1.2-Suborova-struktura.md)
-    - 1.3 [Nastavenie minimálneho kódu](01-Android-Studio/1.3-Minimalny-kod.md)
-    - 1.4 [Umelá Inteligencia](01-Android-Studio/1.4-Umela-inteligencia.md)
+    - [1.1 Prehľad Android Studia](01-Android-Studio/1.1-Prehlad-Android-Studia.md)
+    - [1.2 Súborová štruktúra](01-Android-Studio/1.2-Suborova-struktura.md)
+    - [1.3 Nastavenie minimálneho kódu](01-Android-Studio/1.3-Minimalny-kod.md)
+    - [1.4 Umelá Inteligencia](01-Android-Studio/1.4-Umela-inteligencia.md)
 - 2 Texty a farby
-	- 2.1 [Text Composable](02-Texty-a-Farby/2.1-Text-Composable.md)
-	- 2.2 [Štylovanie textov](02-Texty-a-Farby/2.2-Stylovanie-Textov.md)
-	- 2.3 [Fonty](02-Texty-a-Farby/2.3-Fonty.md)
+    - [2.1 Text Composable](02-Texty-a-Farby/2.1-Text-Composable.md)
+    - [2.2 Štylovanie textov](02-Texty-a-Farby/2.2-Stylovanie-Textov.md)
+    - [2.3 Fonty](02-Texty-a-Farby/2.3-Fonty.md)
 - 3 Layouty
-	- 3.1 [Prehľad](03-Layouty/3.1-Prehlad.md)
-	- 3.2 [Column](03-Layouty/3.2-Column.md)
-	- 3.3 [Row](03-Layouty/3.3-Row.md)
-	- 3.4 [Box](03-Layouty/3.4-Box.md)
+    - [3.1 Prehľad](03-Layouty/3.1-Prehlad.md)
+    - [3.2 Column](03-Layouty/3.2-Column.md)
+    - [3.3 Row](03-Layouty/3.3-Row.md)
+    - [3.4 Box](03-Layouty/3.4-Box.md)
 - 4 Modifikátory
-	- 4.1 [Modifikátory pozadia a rámčeka](04-Modifikatory/4.1-Modifikatory-pozadia-a-ramceka.md)
-	- 4.2 [Modifikátory veľkosti](04-Modifikatory/4.2-Modifikatory-velkosti.md)
-	- 4.3 [Scoped modifikátory](04-Modifikatory/4.3-Scoped-Modifikatory.md)
-    - 4.4 [Composable a Preview anotácie](04-Modifikatory/4.4-Composable-a-Preview-anotacie.md)
+    - [4.1 Modifikátory pozadia a rámčeka](04-Modifikatory/4.1-Modifikatory-pozadia-a-ramceka.md)
+    - [4.2 Modifikátory veľkosti](04-Modifikatory/4.2-Modifikatory-velkosti.md)
+    - [4.3 Scoped modifikátory](04-Modifikatory/4.3-Scoped-Modifikatory.md)
+    - [4.4 Composable a Preview anotácie](04-Modifikatory/4.4-Composable-a-Preview-anotacie.md)
 - 5 Tlačidlá a rekompozícia
-	- 5.1 [Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
-	- 5.2 [MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
+    - [5.1 Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
+    - [5.2 MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
 - 6 Vektorové obrázky
-	- 6.1 [Ikony](06-Vektorove-obrazky/6.1-Ikony.md)
+    - [6.1 Ikony](06-Vektorove-obrazky/6.1-Ikony.md)
 - 7 Rastrové obrázky
-	- 7.1 [Importovanie rastrových obrázkov](07-Rastrove-obrazky/7.1-Importovanie-rastrovych-obrazkov.md)
-	- 7.2 [Image Composable](07-Rastrove-obrazky/7.2-Image-Composable.md)
+    - [7.1 Importovanie rastrových obrázkov](07-Rastrove-obrazky/7.1-Importovanie-rastrovych-obrazkov.md)
+    - [7.2 Image Composable](07-Rastrove-obrazky/7.2-Image-Composable.md)
 - 8 TextField
-	- 8.1 [TextField](08-TextField/8.1-TextField.md)
+    - [8.1 TextField](08-TextField/8.1-TextField.md)
 - 9 SplashScreen a App Icon
-	- 9.1 [SplashScreen](09-SplashScreen-a-App-Icon/9.1-SplashScreen.md)
-	- 9.2 [App Icon](09-SplashScreen-a-App-Icon/9.2-Launcher-Icon.md)
+    - [9.1 SplashScreen](09-SplashScreen-a-App-Icon/9.1-SplashScreen.md)
+    - [9.2 App Icon](09-SplashScreen-a-App-Icon/9.2-Launcher-Icon.md)
 - 10 Navigácia
-	- 10.1 [Compose Navigation](10-Navigacia/10.1-Compose-Navigation.md)
+    - [10.1 Compose Navigation](10-Navigacia/10.1-Compose-Navigation.md)
 - 11 LazyColumn
-	- 11.1 [LazyColumn](11-LazyColumn/11.1-LazyColumn.md)
+    - [11.1 LazyColumn](11-LazyColumn/11.1-LazyColumn.md)
 - 12 Obrázky z internetu
-	- 12.1 [Coil](12-Obrazky-z-internetu/12.1-Coil.md)
+    - [12.1 Coil](12-Obrazky-z-internetu/12.1-Coil.md)
 - 13 JSON
-	- 13.1 [kotlinx serialization](13-JSON/13.1-Kotlinx-serialization.md)
+    - [13.1 kotlinx serialization](13-JSON/13.1-Kotlinx-serialization.md)
 - 14 REST
-	- 14.1 [Ktor Setup](14-REST/14.1-Ktor-Setup.md)
-	- 14.2 [Ktor HTTP metódy](14-REST/14.2-Ktor-Use-Cases.md)
-    - 14.3 [Ktor autentifikácia](14-REST/14.3-Ktor-Auth.md)
+    - [14.1 Ktor Setup](14-REST/14.1-Ktor-Setup.md)
+    - [14.2 Ktor HTTP metódy](14-REST/14.2-Ktor-Use-Cases.md)
+    - [14.3 Ktor autentifikácia](14-REST/14.3-Ktor-Auth.md)
 - 15 ViewModel
-    - 15.1 [Architektúra JetPack Compose aplikácií](15-ViewModel/15.1-ViewModely.md)
+    - [15.1 Architektúra JetPack Compose aplikácií](15-ViewModel/15.1-ViewModely.md)
 - 16 Datastore
-	- 16.1 [DataStore](16-Datastore/16.1-DataStore.md)
+    - [16.1 DataStore](16-Datastore/16.1-DataStore.md)
 - 17 Databázy
-	- 17.1 [Room Setup](17-Databazy/17.1-Room-Setup.md)
-	- 17.2 [Použitie Room](17-Databazy/17.2-Room-Pouzitie.md)
+    - [17.1 Room Setup](17-Databazy/17.1-Room-Setup.md)
+    - [17.2 Použitie Room](17-Databazy/17.2-Room-Pouzitie.md)
 - 18 Efekty
-	- 18.1 [LaunchedEffect](18-Efekty-a-Dialogy/18.1-LaunchedEffect.md)
+    - [18.1 LaunchedEffect](18-Efekty-a-Dialogy/18.1-LaunchedEffect.md)
 - 19 Runtime Permissions
-	- 19.1 [Čo sú runtime permissions](19-Runtime-Permissions/19.1-Co-su-runtime-permissions.md)
-	- 19.2 [Moko runtime permissions](19-Runtime-Permissions/19.2-Moko-runtime-permissions.md)
+    - [19.1 Čo sú runtime permissions](19-Runtime-Permissions/19.1-Co-su-runtime-permissions.md)
+    - [19.2 Moko runtime permissions](19-Runtime-Permissions/19.2-Moko-runtime-permissions.md)
 - 20 Lokálne notifikácie
-	- 20.1 [Vytvorenie notifikačného kanálu](20-Lokalne-notifikacie/20.1-Vytvorenie-notifikacneho-kanalu.md)
-	- 20.2 [Zobrazenie notifikácie](20-Lokalne-notifikacie/20.2-Zobrazenie-notifikacie.md)
+    - [20.1 Vytvorenie notifikačného kanálu](20-Lokalne-notifikacie/20.1-Vytvorenie-notifikacneho-kanalu.md)
+    - [20.2 Zobrazenie notifikácie](20-Lokalne-notifikacie/20.2-Zobrazenie-notifikacie.md)
 - 21 String Resources
-	- 21.1 [Preklady aplikácie](21-String-Resources/21.1-Preklady-aplikacie.md)
-	- 21.2 [Preklady aplikácie v praxi](21-String-Resources/21.2-Preklady-aplikacie-v-praxi.md)
+    - [21.1 Preklady aplikácie](21-String-Resources/21.1-Preklady-aplikacie.md)
+    - [21.2 Preklady aplikácie v praxi](21-String-Resources/21.2-Preklady-aplikacie-v-praxi.md)
 - 22 Firebase Setup
-	- 22.1 [Čo je Firebase](22-Firebase-Setup/22.1-Co-je-Firebase.md)
-	- 22.2 [Firebase setup](22-Firebase-Setup/22.2-Firebase-setup.md)
+    - [22.1 Čo je Firebase](22-Firebase-Setup/22.1-Co-je-Firebase.md)
+    - [22.2 Firebase setup](22-Firebase-Setup/22.2-Firebase-setup.md)
 - 23 Push notifikácie
-	- 23.1 [Čo je Firebase](23-Push-Notifikacie/23.1-Co-je-Firebase.md)
-	- 23.2 [Firebase setup](23-Push-Notifikacie/23.2-Firebase-setup.md)
+    - [23.1 Čo je Firebase](23-Push-Notifikacie/23.1-Co-je-Firebase.md)
+    - [23.2 Firebase setup](23-Push-Notifikacie/23.2-Firebase-setup.md)
 - 24 Externé aplikácie
-	- 24.1 [Ako spustiť externé aplikácie](24-Externe-aplikacie/24.1-Ako-spustit-externe-aplikacie.md)
+    - [24.1 Ako spustiť externé aplikácie](24-Externe-aplikacie/24.1-Ako-spustit-externe-aplikacie.md)

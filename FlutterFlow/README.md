@@ -2,42 +2,43 @@ Vitaj v kurze *FlutterFlow*. V tomto kurze sa naučíš vytvárať používateľ
 
 Obsah:
 - 0 Setup
-    - 0.1 [Vývojové prostredie (FlutterFlow)](00-Setup/0.1-Setup.md)
+    - [0.1 Vývojové prostredie (FlutterFlow)](00-Setup/0.1-Setup.md)
 - 1 Prostredie FlutterFlow
-	- 1.1 [AppBuilder](01-Prostredie-FlutterFlow/1.1-AppBuilder.md)
+    - [1.1 AppBuilder](01-Prostredie-FlutterFlow/1.1-AppBuilder.md)
 - 2 Layouty a Widget Tree
-	- 2.1 [Layouty](02-Layouty-a-Widget-Tree/2.1-Layouty.md)
-	- 2.2 [Widget Tree](02-Layouty-a-Widget-Tree/2.2-Widget-Tree.md)
+    - [2.1 Layouty](02-Layouty-a-Widget-Tree/2.1-Layouty.md)
+    - [2.2 Widget Tree](02-Layouty-a-Widget-Tree/2.2-Widget-Tree.md)
+    - [2.3 Layouty - zadania](02-Layouty-a-Widget-Tree/2.3-Zadanie.md)
 - 3 Alignments & Arrangements
-	- 3.1 [Main Axis Alignment](03-Alignments-and-Arrangements/3.1-Main-Axis-Alignment.md)
-	- 3.2 [Cross Axis Alignment](03-Alignments-and-Arrangements/3.2-Cross-Axis-Alignment.md)
-	- 3.3 [Stack Alignment](03-Alignments-and-Arrangements/3.3-Stack-Alignment.md)
-	- 3.4 [Flexibility](03-Alignments-and-Arrangements/3.4-Flexibility.md)
+    - [3.1 Main Axis Alignment](03-Alignments-and-Arrangements/3.1-Main-Axis-Alignment.md)
+    - [3.2 Cross Axis Alignment](03-Alignments-and-Arrangements/3.2-Cross-Axis-Alignment.md)
+    - [3.3 Stack Alignment](03-Alignments-and-Arrangements/3.3-Stack-Alignment.md)
+    - [3.4 Flexibility](03-Alignments-and-Arrangements/3.4-Flexibility.md)
 - 4 Image & Icon
-	- 4.1 [Image a CircleImage](04-Image-and-Icon/4.1-Image-a-CircleImage.md)
-	- 4.2 [Icon](04-Image-and-Icon/4.2-Icon.md)
+    - [4.1 Image a CircleImage](04-Image-and-Icon/4.1-Image-a-CircleImage.md)
+    - [4.2 Icon](04-Image-and-Icon/4.2-Icon.md)
 - 5 Texty
-	- 5.1 [Text](05-Texty/5.1-Text.md)
+    - [5.1 Text](05-Texty/5.1-Text.md)
 - 6 Buttons & Navigation
-	- 6.1 [Pages](06-Buttons-and-Navigation/6.1-Pages.md)
-	- 6.2 [Button](06-Buttons-and-Navigation/6.2-Button.md)
-	- 6.3 [Alerty](06-Buttons-and-Navigation/6.3-Alerty.md)
+    - [6.1 Pages](06-Buttons-and-Navigation/6.1-Pages.md)
+    - [6.2 Button](06-Buttons-and-Navigation/6.2-Button.md)
+    - [6.3 Alerty](06-Buttons-and-Navigation/6.3-Alerty.md)
 - 7 Prepoužiteľné štýly
-	- 7.1 [Theme farby](07-Prepouzitelne-styly/7.1-Theme-farby.md)
-	- 7.2 [Theme design tokens](07-Prepouzitelne-styly/7.2-Theme-design-tokens.md)
-	- 7.3 [Design System](07-Prepouzitelne-styly/7.3-Design-System.md)
+    - [7.1 Theme farby](07-Prepouzitelne-styly/7.1-Theme-farby.md)
+    - [7.2 Theme design tokens](07-Prepouzitelne-styly/7.2-Theme-design-tokens.md)
+    - [7.3 Design System](07-Prepouzitelne-styly/7.3-Design-System.md)
 - 8 Komponenty
-	- 8.1 [Vytvorenie komponentu](08-Komponenty/8.1-Vytvorenie-komponentu.md)
-	- 8.2 [Parametre komponentu](08-Komponenty/8.2-Parametre-komponentu.md)
+    - [8.1 Vytvorenie komponentu](08-Komponenty/8.1-Vytvorenie-komponentu.md)
+    - [8.2 Parametre komponentu](08-Komponenty/8.2-Parametre-komponentu.md)
 - 9 TextFields
-	- 9.1 [TextField základ](09-TextFields/9.1-TextField-zaklad.md)
+    - [9.1 TextField základ](09-TextFields/9.1-TextField-zaklad.md)
 - 10 Globálne premenné
-	- 10.1 [App State](10-Globalne-premenne/10.1-App-State.md)
+    - [10.1 App State](10-Globalne-premenne/10.1-App-State.md)
 - 11 Premenné stránky
-	- 11.1 [Page State](11-Premenne-stranky/11.1-Page-State.md)
+    - [11.1 Page State](11-Premenne-stranky/11.1-Page-State.md)
 - 12 Parametre stránky
-	- 12.1 [Page Parameter](12-Parametre-stranky/12.1-Page-Parameter.md)
+    - [12.1 Page Parameter](12-Parametre-stranky/12.1-Page-Parameter.md)
 - 13 Akcie ako parametre komponentov
-	- 13.1 [Component Parameter](13-Akcie-ako-parametre-komponentov/13.1-Component-Parameter.md)
+    - [13.1 Component Parameter](13-Akcie-ako-parametre-komponentov/13.1-Component-Parameter.md)
 - 14 Firebase setup
-	- 14.1 [Firebase projekt](14-Firebase-setup/14.1-Firebase-projekt.md)
+    - [14.1 Firebase projekt](14-Firebase-setup/14.1-Firebase-projekt.md)
