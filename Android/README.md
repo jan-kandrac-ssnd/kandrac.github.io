@@ -17,6 +17,7 @@ Obsah:
     - [2.1 Text Composable](02-Texty-a-Farby/2.1-Text-Composable.md)
     - [2.2 Štylovanie textov](02-Texty-a-Farby/2.2-Stylovanie-Textov.md)
     - [2.3 Fonty](02-Texty-a-Farby/2.3-Fonty.md)
+    - [2.4 Texty - zadania](02-Texty-a-Farby/2.4-Zadanie.md)
 - 3 Layouty
     - [3.1 Prehľad](03-Layouty/3.1-Prehlad.md)
     - [3.2 Column](03-Layouty/3.2-Column.md)
