@@ -18,7 +18,37 @@ Obsah:
     - [3.1 Git Status](03-Stavy-suborov-v-gite/3.1-git-status.md)
 - 4 Prehliadanie zmien v Gite
     - [4.1 Git Log](04-Prehliadanie-zmien-v-gite/4.1-git-log.md)
+    - [4.2 Git Diff a Git Show](04-Prehliadanie-zmien-v-gite/4.2-git-diff.md)
+    - [4.3 Cvičenie - ASCII Art](04-Prehliadanie-zmien-v-gite/4.3-Cvicenie.md)
+    - [4.4 Test - prehliadanie zmien](04-Prehliadanie-zmien-v-gite/4.4-Test.md)
 - 5 Vetvenie - úvod
     - [5.1 Vetvenie - úvod](05-Vetvenie-uvod/5.1-Vetvenie-uvod.md)
     - [5.2 Git Branch](05-Vetvenie-uvod/5.2-git-branch.md)
     - [5.3 Git Checkout](05-Vetvenie-uvod/5.3-git-checkout.md)
+    - [5.4 Cvičenie](05-Vetvenie-uvod/5.4-Cvicenie.md)
+- 6 Ignorovanie súborov
+    - [6.1 .gitignore](06-Ignorovanie-suborov/6.1-.gitignore.md)
+    - [6.2 Test - ignorovanie súborov](06-Ignorovanie-suborov/6.2-Test.md)
+- 7 Navigácia v Git-e
+    - [7.1 Navigácia v Git-e](07-Navigacia-v-Gite/7.1-Navigacia-v-Git.md)
+    - [7.2 Test - navigácia v Git-e](07-Navigacia-v-Gite/7.2-Test.md)
+- 8 Úprava posledného commitu
+    - [8.1 Git Commit --amend](08-Uprava-posledneho-commitu/8.1-git-commit-amend.md)
+    - [8.2 Test - úprava posledného commitu](08-Uprava-posledneho-commitu/8.2-Test.md)
+    - [8.3 Cvičenie - úprava posledného commitu](08-Uprava-posledneho-commitu/8.3-Cvicenie.md)
+- 9 Interaktívny rebase - pick a reword
+    - [9.1 Interaktívny Rebase - Pick](09-Interaktivny-rebase-pick-a-reword/9.1-git-rebase-interactive-pick.md)
+    - [9.2 Interaktívny Rebase - Reword](09-Interaktivny-rebase-pick-a-reword/9.2-git-rebase-interactive-reword.md)
+    - [9.3 Interaktívny Rebase - Drop](09-Interaktivny-rebase-pick-a-reword/9.3-git-rebase-interactive-drop.md)
+    - [9.4 Test - pick, reword a drop](09-Interaktivny-rebase-pick-a-reword/9.4-Test.md)
+    - [9.5 Cvičenie - Interaktívny rebase: pick a reword](09-Interaktivny-rebase-pick-a-reword/9.5-Cvicenie.md)
+- 10 Interaktívny rebase - edit a squash
+    - [10.1 Interaktívny Rebase - Edit](10-Interaktivny-rebase-edit-a-squash/10.1-git-rebase-interactive-edit.md)
+    - [10.2 Interaktívny Rebase - Squash](10-Interaktivny-rebase-edit-a-squash/10.2-git-rebase-interactive-squash.md)
+    - [10.3 Test - edit a squash](10-Interaktivny-rebase-edit-a-squash/10.3-Test.md)
+- 11 Interaktívny rebase a konflikty
+    - [11.1 Čo je konflikt?](11-Interaktivny-rebase-a-konflikty/11.1-Co-je-konflikt.md)
+    - [11.2 Konflikty pri Interaktívnom Rebase](11-Interaktivny-rebase-a-konflikty/11.2-git-rebase-interactive-konflity.md)
+    - [11.3 Git Rebase --abort a --continue](11-Interaktivny-rebase-a-konflikty/11.3-git-rebase-abort-a-continue.md)
+    - [11.4 Test - konflikty](11-Interaktivny-rebase-a-konflikty/11.4-Test.md)
+    - [11.5 Cvičenie - Upratovanie histórie](11-Interaktivny-rebase-a-konflikty/11.5-Cvicenie.md)

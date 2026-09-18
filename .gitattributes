@@ -1,0 +1,6 @@
+# Shell scripts must always be checked out with LF line endings. If a
+# Windows user clones this repo with the common `core.autocrlf=true` setting,
+# Git would otherwise convert LF -> CRLF on checkout, which breaks the
+# `cat <<'EOF' ... EOF` heredocs in priprav_repo.sh (the EOF terminator with
+# a trailing \r no longer matches).
+*.sh text eol=lf
