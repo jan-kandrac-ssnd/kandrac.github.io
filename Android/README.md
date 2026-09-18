@@ -18,16 +18,16 @@ Obsah:
     - [2.2 Štylovanie textov](02-Texty-a-Farby/2.2-Stylovanie-Textov.md)
     - [2.3 Fonty](02-Texty-a-Farby/2.3-Fonty.md)
     - [2.4 Texty - zadania](02-Texty-a-Farby/2.4-Zadanie.md)
-- 3 Layouty
-    - [3.1 Prehľad](03-Layouty/3.1-Prehlad.md)
-    - [3.2 Column](03-Layouty/3.2-Column.md)
-    - [3.3 Row](03-Layouty/3.3-Row.md)
-    - [3.4 Box](03-Layouty/3.4-Box.md)
-- 4 Modifikátory
-    - [4.1 Modifikátory pozadia a rámčeka](04-Modifikatory/4.1-Modifikatory-pozadia-a-ramceka.md)
-    - [4.2 Modifikátory veľkosti](04-Modifikatory/4.2-Modifikatory-velkosti.md)
-    - [4.3 Scoped modifikátory](04-Modifikatory/4.3-Scoped-Modifikatory.md)
-    - [4.4 Composable a Preview anotácie](04-Modifikatory/4.4-Composable-a-Preview-anotacie.md)
+- 3 Modifikátory `@Composable` a `@Preview`
+    - [3.1 Modifikátory pozadia a rámčeka](03-Modifikatory/3.1-Modifikatory-pozadia-a-ramceka.md)
+    - [3.2 Modifikátory veľkosti](03-Modifikatory/3.2-Modifikatory-velkosti.md)
+    - [3.3 Composable a Preview anotácie](03-Modifikatory/3.3-Composable-a-Preview-anotacie.md)
+- 4 Layouty
+    - [4.1 Prehľad](04-Layouty/4.1-Prehlad.md)
+    - [4.2 Column](04-Layouty/4.2-Column.md)
+    - [4.3 Row](04-Layouty/4.3-Row.md)
+    - [4.4 Box](04-Layouty/4.4-Box.md)
+    - [4.5 Scoped modifikátory](04-Layouty/4.5-Scoped-Modifikatory.md)
 - 5 Tlačidlá a rekompozícia
     - [5.1 Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
     - [5.2 MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
