@@ -28,6 +28,8 @@ Obsah:
     - [4.3 Row](04-Layouty/4.3-Row.md)
     - [4.4 Box](04-Layouty/4.4-Box.md)
     - [4.5 Scoped modifikátory](04-Layouty/4.5-Scoped-Modifikatory.md)
+- Projekt
+    - [Projekt 1 - Layouty](Projekt-01-Layouts/Projekt-Layouty.md)
 - 5 Tlačidlá a rekompozícia
     - [5.1 Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
     - [5.2 MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
