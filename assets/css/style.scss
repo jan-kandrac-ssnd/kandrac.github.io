@@ -201,6 +201,22 @@ pre code {
   border: none;
 }
 
+// The theme hardcodes inline `code` to a fixed 13px, which looks far too
+// small inside headings (h1/h2/h3 render at 28px/24px/18px respectively).
+// Scale it up relative to each heading's own font-size so it stays
+// legible and visually balanced instead of shrinking down to 13px.
+h1 code {
+  font-size: 0.8em;
+}
+
+h2 code {
+  font-size: 0.8em;
+}
+
+h3 code {
+  font-size: 0.85em;
+}
+
 // Mermaid diagrams (see _layouts/default.html) are rendered as inline SVG
 // inside a `.mermaid` div. Give them a card-like frame and center them so
 // they match the rest of the dark theme.
