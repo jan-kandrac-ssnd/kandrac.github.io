@@ -30,7 +30,7 @@ Obsah:
     - [6.1 .gitignore](06-Ignorovanie-suborov/6.1-.gitignore.md)
     - [6.2 Test - ignorovanie súborov](06-Ignorovanie-suborov/6.2-Test.md)
 - 7 Navigácia v Git-e
-    - [7.1 Navigácia v Git-e](07-Navigacia-v-Gite/7.1-Navigacia-v-Git.md)
+    - [7.1 Navigácia v Git-e](07-Navigacia-v-Gite/7.1-Navigacia-v-Gite.md)
     - [7.2 Test - navigácia v Git-e](07-Navigacia-v-Gite/7.2-Test.md)
 - 8 Úprava posledného commitu
     - [8.1 Git Commit --amend](08-Uprava-posledneho-commitu/8.1-git-commit-amend.md)
@@ -52,3 +52,8 @@ Obsah:
     - [11.3 Git Rebase --abort a --continue](11-Interaktivny-rebase-a-konflikty/11.3-git-rebase-abort-a-continue.md)
     - [11.4 Test - konflikty](11-Interaktivny-rebase-a-konflikty/11.4-Test.md)
     - [11.5 Cvičenie - Upratovanie histórie](11-Interaktivny-rebase-a-konflikty/11.5-Cvicenie.md)
+- 12 Git ako distribuovaný systém
+    - [12.1 Čo je GitHub?](12-Git-ako-distribuovany-system/12.1-Co-je-GitHub.md)
+    - [12.2 Git Clone](12-Git-ako-distribuovany-system/12.2-git-clone.md)
+    - [12.3 Zadanie](12-Git-ako-distribuovany-system/12.3-Zadanie.md)
+
