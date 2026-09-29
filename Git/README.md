@@ -56,4 +56,8 @@ Obsah:
     - [12.1 Čo je GitHub?](12-Git-ako-distribuovany-system/12.1-Co-je-GitHub.md)
     - [12.2 Git Clone](12-Git-ako-distribuovany-system/12.2-git-clone.md)
     - [12.3 Zadanie](12-Git-ako-distribuovany-system/12.3-Zadanie.md)
-
+- 13 SSH spojenie s GitHub-om
+    - [13.1 SSH Komunikácia](13-SSH-spojenie-s-GitHubom/13.1-SSH-komunikacia.md)
+    - [13.2 Vytvorenie SSH Kľúčov](13-SSH-spojenie-s-GitHubom/13.2-Vytvorenie-SSH-klucov.md)
+    - [13.3 Nahratie SSH Kľúčov na GitHub](13-SSH-spojenie-s-GitHubom/13.3-Nahratie-SSH-klucov-na-GitHub.md)
+    - [13.4 Cvičenia](13-SSH-spojenie-s-GitHubom/13.4-Cvicenia.md)
