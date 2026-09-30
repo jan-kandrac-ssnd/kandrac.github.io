@@ -17,6 +17,7 @@ Obsah:
 - 4 Image & Icon
     - [4.1 Image a CircleImage](04-Image-and-Icon/4.1-Image-a-CircleImage.md)
     - [4.2 Icon](04-Image-and-Icon/4.2-Icon.md)
+    - [4.3 Zadania](04-Image-and-Icon/4.3-Zadania.md)
 - 5 Texty
     - [5.1 Text](05-Texty/5.1-Text.md)
 - 6 Buttons & Navigation

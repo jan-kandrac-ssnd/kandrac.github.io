@@ -33,11 +33,14 @@ Obsah:
 - 5 Tlačidlá a rekompozícia
     - [5.1 Button Composable](05-Tlacidla-a-Rekompozicia/5.1-Button-Composable.md)
     - [5.2 MutableState](05-Tlacidla-a-Rekompozicia/5.2-MutableState.md)
+    - [5.3 Tlačidlá zadania](05-Tlacidla-a-Rekompozicia/5.3-Tlacidla-zadania.md)
 - 6 Vektorové obrázky
     - [6.1 Ikony](06-Vektorove-obrazky/6.1-Ikony.md)
+    - [6.2 Ikony zadania](06-Vektorove-obrazky/6.2-Ikony-zadania.md)
 - 7 Rastrové obrázky
     - [7.1 Importovanie rastrových obrázkov](07-Rastrove-obrazky/7.1-Importovanie-rastrovych-obrazkov.md)
     - [7.2 Image Composable](07-Rastrove-obrazky/7.2-Image-Composable.md)
+    - [7.3 Obrázky zadania](07-Rastrove-obrazky/7.3-Obrazky-zadania.md)
 - 8 TextField
     - [8.1 TextField](08-TextField/8.1-TextField.md)
 - 9 SplashScreen a App Icon
@@ -61,12 +64,12 @@ Obsah:
     - [16.1 DataStore](16-Datastore/16.1-DataStore.md)
 - 17 Databázy
     - [17.1 Room Setup](17-Databazy/17.1-Room-Setup.md)
-    - [17.2 Použitie Room](17-Databazy/17.2-Room-Pouzitie.md)
 - 18 Efekty
     - [18.1 LaunchedEffect](18-Efekty-a-Dialogy/18.1-LaunchedEffect.md)
 - 19 Runtime Permissions
     - [19.1 Čo sú runtime permissions](19-Runtime-Permissions/19.1-Co-su-runtime-permissions.md)
-    - [19.2 Moko runtime permissions](19-Runtime-Permissions/19.2-Moko-runtime-permissions.md)
+    - [19.2 Appcompanist runtime permissions](19-Runtime-Permissions/19.2-appcompanist-runtime-permissions.md)
+    - [19.3 Moko runtime permissions](19-Runtime-Permissions/19.3-Moko-runtime-permissions.md)
 - 20 Lokálne notifikácie
     - [20.1 Vytvorenie notifikačného kanálu](20-Lokalne-notifikacie/20.1-Vytvorenie-notifikacneho-kanalu.md)
     - [20.2 Zobrazenie notifikácie](20-Lokalne-notifikacie/20.2-Zobrazenie-notifikacie.md)
