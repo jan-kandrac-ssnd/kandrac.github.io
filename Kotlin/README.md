@@ -28,6 +28,7 @@ Obsah:
     - [5.2 Jednoriadkové funkcie](05-Funkcie-zaklady/5.2-Jednoriadkove-funkcie.md)
     - [5.3 Predvolené atribúty funkcie](05-Funkcie-zaklady/5.3-Predvolene-atributy-funkcie.md)
     - [5.4 Named arguments](05-Funkcie-zaklady/5.4-Named-arguments.md)
+- [Úlohy na opakovanie - témy 1-5](Ulohy-Blok-1/Ulohy-Blok-1.md)
 - 6 Triedy a Objekty
     - [6.1 Triedy a Objekty - teória](06-Triedy-a-Objekty/6.1-Triedy-a-Objekty-teoria.md)
     - [6.2 Triedy a Objekty v jazyku Kotlin](06-Triedy-a-Objekty/6.2-Triedy-a-Objekty-v-jazyku-Kotlin.md)
