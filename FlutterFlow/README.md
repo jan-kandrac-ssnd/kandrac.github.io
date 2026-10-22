@@ -24,6 +24,7 @@ Obsah:
     - [6.1 Pages](06-Buttons-and-Navigation/6.1-Pages.md)
     - [6.2 Button](06-Buttons-and-Navigation/6.2-Button.md)
     - [6.3 Alerty](06-Buttons-and-Navigation/6.3-Alerty.md)
+    - [6.4 Úvodná stránka](06-Buttons-and-Navigation/6.4-Initial-Page.md)
 - 7 Prepoužiteľné štýly
     - [7.1 Theme farby](07-Prepouzitelne-styly/7.1-Theme-farby.md)
     - [7.2 Theme design tokens](07-Prepouzitelne-styly/7.2-Theme-design-tokens.md)
