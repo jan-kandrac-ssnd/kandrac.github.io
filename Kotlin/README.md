@@ -16,26 +16,33 @@ Obsah:
 - 2 Zoznamy a for cyklus
     - [2.1 Zoznamy](02-Zoznamy-a-for-cyklus/2.1-Zoznamy.md)
     - [2.2 For cyklus](02-Zoznamy-a-for-cyklus/2.2-For-cyklus.md)
+    - [2.3 Test - Zoznamy a for cyklus](02-Zoznamy-a-for-cyklus/2.3-Test.md)
 - 3 Stringy
     - [3.1 Stringy](03-Stringy/3.1-Stringy.md)
+    - [3.2 Test - Stringy](03-Stringy/3.2-Test.md)
 - 4 Podmienky a while cyklus
     - [4.1 Podmienka if](04-Podmienky-a-While-cyklus/4.1-Podmienka-if.md)
     - [4.2 Podmienka when](04-Podmienky-a-While-cyklus/4.2-Podmienka-when.md)
     - [4.3 Podmienky ako výrazy](04-Podmienky-a-While-cyklus/4.3-Podmienky-ako-vyrazy.md)
     - [4.4 Cyklus while](04-Podmienky-a-While-cyklus/4.4-Cyklus-while.md)
+    - [4.5 Test - Podmienky a while cyklus](04-Podmienky-a-While-cyklus/4.5-Test.md)
 - 5 Funkcie - základy
     - [5.1 Plná definícia funkcie](05-Funkcie-zaklady/5.1-Plna-definicia-funkcie.md)
     - [5.2 Jednoriadkové funkcie](05-Funkcie-zaklady/5.2-Jednoriadkove-funkcie.md)
     - [5.3 Predvolené atribúty funkcie](05-Funkcie-zaklady/5.3-Predvolene-atributy-funkcie.md)
     - [5.4 Named arguments](05-Funkcie-zaklady/5.4-Named-arguments.md)
+    - [5.5 Test - Funkcie](05-Funkcie-zaklady/5.5-Test.md)
 - [Úlohy na opakovanie - témy 1-5](Ulohy-Blok-1/Ulohy-Blok-1.md)
 - 6 Triedy a Objekty
     - [6.1 Triedy a Objekty - teória](06-Triedy-a-Objekty/6.1-Triedy-a-Objekty-teoria.md)
     - [6.2 Triedy a Objekty v jazyku Kotlin](06-Triedy-a-Objekty/6.2-Triedy-a-Objekty-v-jazyku-Kotlin.md)
     - [6.3 Konštruktory](06-Triedy-a-Objekty/6.3-Konstruktory.md)
+    - [6.4 Test - Triedy a Objekty](06-Triedy-a-Objekty/6.4-Test.md)
 - 7 Modifikátory prístupu a this
     - [7.1 Modifikátory private a public](07-Modifikatory-pristupu-a-this/7.1-Modifikatory-private-a-public.md)
     - [7.2 Kľúčové slovo this](07-Modifikatory-pristupu-a-this/7.2-Klucove-slovo-this.md)
+    - [7.3 Test - Modifikátory prístupu a this](07-Modifikatory-pristupu-a-this/7.3-Test.md)
+    - [7.4 Projekt](07-Modifikatory-pristupu-a-this/7.4-Projekt.md)
 - 8 Dátové triedy
     - [8.1 Dátové triedy](08-Datove-triedy/8.1-Datove-triedy.md)
 - 9 Mapy a Sety
