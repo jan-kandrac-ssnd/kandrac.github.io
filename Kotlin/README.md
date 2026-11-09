@@ -48,6 +48,7 @@ Obsah:
 - 9 Mapy a Sety
     - [9.1 Map](09-Mapy-a-Sety/9.1-Map.md)
     - [9.2 Set](09-Mapy-a-Sety/9.2-Set.md)
+    - [9.3-Test.md](09-Mapy-a-Sety/9.3-Test.md)
 - 10 Dedičnosť
     - [10.1 Kľúčové slovíčko open](10-Dedicnost/10.1-Klucove-slovicko-open.md)
     - [10.2 Kľúčové slovíčko override](10-Dedicnost/10.2-Klucove-slovicko-override.md)
