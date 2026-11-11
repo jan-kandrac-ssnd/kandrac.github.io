@@ -32,6 +32,7 @@ Obsah:
 - 8 Komponenty
     - [8.1 Vytvorenie komponentu](08-Komponenty/8.1-Vytvorenie-komponentu.md)
     - [8.2 Parametre komponentu](08-Komponenty/8.2-Parametre-komponentu.md)
+    - [8.3 Komponenty - cvičenia](08-Komponenty/8.3-Komponenty-Cvicenia.md)
 - 9 TextFields
     - [9.1 TextField základ](09-TextFields/9.1-TextField-zaklad.md)
 - 10 Globálne premenné
