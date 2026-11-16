@@ -62,7 +62,9 @@ Obsah:
     - [13.3 Nahratie SSH Kľúčov na GitHub](13-SSH-spojenie-s-GitHubom/13.3-Nahratie-SSH-klucov-na-GitHub.md)
     - [13.4 Cvičenia](13-SSH-spojenie-s-GitHubom/13.4-Cvicenia.md)
 - 14 Git Pull a privátny repozitár
-    - [14.1 GitHub privátny repozitár](14-Git-Pull/14.1-GitHub-privatny-repozitar.md)
-    - [14.2 Git Pull](14-Git-Pull/14.2-Git-Pull.md)
+    - [14.1 GitHub privátny repozitár](14-Git-Push/14.1-GitHub-privatny-repozitar.md)
+    - [14.2 Git Pull](14-Git-Push/14.2-Git-Push.md)
 - 15 Git Push
-    - [15.1 Git Push](15-Git-Push/15.1-Git-Push.md)
+    - [15.1 Git Push](15-Git-Pull/15.1-Git-Pull.md)
+    - [15.2 Pull a Push - Dodatky](15-Git-Pull/15.2-Dodatky.md)
+    - [15.3 Úlohy [WIP]](15-Git-Pull/15.3-Ulohy.md)
