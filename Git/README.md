@@ -68,3 +68,5 @@ Obsah:
     - [15.1 Git Push](15-Git-Pull/15.1-Git-Pull.md)
     - [15.2 Pull a Push - Dodatky](15-Git-Pull/15.2-Dodatky.md)
     - [15.3 Úlohy [WIP]](15-Git-Pull/15.3-Ulohy.md)
+- 16 Git remote
+    - [16.1 Git remote](16-Git-remote/16.1-Git-Remote.md)
